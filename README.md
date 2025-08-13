@@ -27,8 +27,14 @@ We created a balanced dataset of over 1000 manually labeled sentences and fine-t
 - **Key Insight:** Hebrew-specific models consistently outperformed multilingual models  
 - **Analysis:** Attention visualizations confirmed better contextual handling of idiomatic cues
 
+## 📄 Read the full report
+For detailed methodology, experiments, and analysis, see the Final Project Report (pdf) attached as part of the repository.
+
+
 ## 👥 Collaboration
 This project was developed in collaboration with
 Yuval Amit – co-author of the original implementation and joint contributor to dataset creation, model fine-tuning, and analysis.
 
 Original repository: [(https://github.com/igornazarenko434/hebrew-idioms-figurative-literal-classifier/edit/main/README.md)]
+
+
