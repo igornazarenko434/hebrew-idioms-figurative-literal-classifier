@@ -35,6 +35,6 @@ For detailed methodology, experiments, and analysis, see the Final Project Repor
 This project was developed in collaboration with
 Yuval Amit – co-author of the original implementation and joint contributor to dataset creation, model fine-tuning, and analysis.
 
-Original repository: [(https://github.com/igornazarenko434/hebrew-idioms-figurative-literal-classifier/edit/main/README.md)]
+Original repository: (https://github.com/igornazarenko434/hebrew-idioms-figurative-literal-classifier/edit/main/README.md)
 
 
